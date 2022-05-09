@@ -13,12 +13,11 @@ featured: false
 draft: false
 
 # Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder.
-# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
+# Place an image named `featured.jpg/png` in this page's folder and customize its options here.
 image:
-  caption: 'Image credit: [**Git**](https://analyse-innovation-solution.fr/applications/my_app/files/images/git-versionning-git-checkout-git-merge.jpg)'
+  caption: 'Image credit: [**Unsplash**](https://analyse-innovation-solution.fr/applications/my_app/files/images/git-versionning-git-checkout-git-merge.jpg)'
   focal_point: ''
-  placement: 1
+  placement: 2
   preview_only: false
 
 authors:

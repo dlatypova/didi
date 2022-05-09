@@ -12,11 +12,10 @@ lastmod: 2022-05-07T00:38:21+03:00
 featured: false
 draft: false
 
-# The last week
-# To use, add an image named `The last week.jpg/png` to your page's folder.
-# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
+# Featured image
+# Place an image named `featured.jpg/png` in this page's folder and customize its options here.
 image:
-  caption: 'Image credit: [**The last week**](/work/didi/content/post/My_last_week/last.jpg)'
+  caption: 'Image credit: [**Unsplash**](https://www.kaiostech.com/wp-content/uploads/2018/04/Coding-illustration.png)'
   focal_point: ''
   placement: 2
   preview_only: false
