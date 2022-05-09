@@ -16,7 +16,7 @@ draft: false
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
-  caption: 'Image credit: [**Git**](/work/didi/content/post/git/Git.jpg)'
+  caption: 'Image credit: [**Git**](https://analyse-innovation-solution.fr/applications/my_app/files/images/git-versionning-git-checkout-git-merge.jpg)'
   focal_point: ''
   placement: 1
   preview_only: false
