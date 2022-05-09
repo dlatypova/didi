@@ -2,8 +2,8 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "My last week"
-subtitle: ""
-summary: ""
+subtitle: "Welcome 👋.Let's see what happened to me last week."
+summary: "Welcome 👋.Let's see what happened to me last week."
 authors: [Latypova Diana]
 tags: []
 categories: []
@@ -18,7 +18,7 @@ draft: false
 image:
   caption: 'Image credit: [**The last week**](/work/didi/content/post/My_last_week/last.png)'
   focal_point: ''
-  placement: 2
+  placement: 1
   preview_only: false
 
 authors:

@@ -2,8 +2,8 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "Version control.Git."
-subtitle: ""
-summary: ""
+subtitle: "Getting to know information about Version Control and Git"
+summary: "Getting to know information about Version Control and Git"
 authors: [Latypova Diana]
 tags: []
 categories: []
@@ -18,7 +18,7 @@ draft: false
 image:
   caption: 'Image credit: [**Git**](/work/didi/content/post/git/Git.jpg)'
   focal_point: ''
-  placement: 2
+  placement: 1
   preview_only: false
 
 authors:
