@@ -33,6 +33,8 @@ authors:
 projects: []
 ---
 
+**Getting to know information about Version Control and Git**
+
 **Introduction**
 
 In recent years, the popularity of git has shown explosive growth. This version control system is used by various open source projects. You can start by learning the most commonly used commands, and then gradually expand your knowledge. This is exactly what we will do in this article.

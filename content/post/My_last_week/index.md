@@ -2,8 +2,8 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "My last week"
-subtitle: "Welcome 👋.Let's see what happened to me last week."
-summary: "Welcome 👋.Let's see what happened to me last week."
+subtitle: "Let's see what happened to me last week."
+summary: "Let's see what happened to me last week."
 authors: [Latypova Diana]
 tags: []
 categories: []
@@ -18,7 +18,7 @@ draft: false
 image:
   caption: 'Image credit: [**The last week**](/work/didi/content/post/My_last_week/last.png)'
   focal_point: ''
-  placement: 1
+  placement: 2
   preview_only: false
 
 authors:
@@ -31,6 +31,8 @@ authors:
 #   Otherwise, set `projects = []`.
 projects: []
 ---
+
+**Let's see what happened to me last week.**
 
 My last week flew by unnoticed. For almost the whole week, I was dealing with Operating systems and a Computer workshop on IT. Over the past week, I have completed two laboratory works and the stage 1st of an Individual project on Operating systems, as well as laboratory work on a Computer workshop on IT.
 
