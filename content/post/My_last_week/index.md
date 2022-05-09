@@ -1,37 +1,39 @@
 ---
-# Documentation: https://wowchemy.com/docs/managing-content/
+title: My last week
+subtitle: Let's see what happened to me last week.
 
-title: "My last week"
-subtitle: "Let's see what happened to me last week."
-summary: "Let's see what happened to me last week."
-authors: [Latypova Diana]
-tags: []
-categories: []
-date: 2022-05-07T00:38:21+03:00
-lastmod: 2022-05-07T00:38:21+03:00
-featured: false
+# Summary for listings and search engines
+summary: Let's see what happened to me last week.
+
+# Link this post with a project
+projects: []
+
+# Date published
+date: '2020-12-13T00:00:00Z'
+
+# Date updated
+lastmod: '2020-12-13T00:00:00Z'
+
+# Is this an unpublished draft?
 draft: false
+
+# Show this page in the Featured widget?
+featured: false
 
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
 image:
-  caption: 'Image credit: [**Unsplash**](https://www.kaiostech.com/wp-content/uploads/2018/04/Coding-illustration)'
+  caption: 'Image credit: [**The last week**](https://www.kaiostech.com/wp-content/uploads/2018/04/Coding-illustration.png)'
   focal_point: ''
   placement: 2
   preview_only: false
 
 authors:
   - admin
-
-# Projects (optional).
-#   Associate this post with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
-#   Otherwise, set `projects = []`.
-projects: []
+  
 ---
 
-**Let's see what happened to me last week.**
+## Get Started
 
 My last week flew by unnoticed. For almost the whole week, I was dealing with Operating systems and a Computer workshop on IT. Over the past week, I have completed two laboratory works and the stage 1st of an Individual project on Operating systems, as well as laboratory work on a Computer workshop on IT.
 
