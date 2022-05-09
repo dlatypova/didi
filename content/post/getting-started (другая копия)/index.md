@@ -1,9 +1,9 @@
 ---
-title: Welcome to Wowchemy, the website builder for Hugo
-subtitle: Welcome 👋 We know that first impressions are important, so we've populated your new site with some initial content to help you get familiar with everything in no time.
+title: Version control.Git.
+subtitle: Getting to know information about Version Control and Git
 
 # Summary for listings and search engines
-summary: Welcome 👋 We know that first impressions are important, so we've populated your new site with some initial content to help you get familiar with everything in no time.
+summary: Getting to know information about Version Control and Git
 
 # Link this post with a project
 projects: []
@@ -23,83 +23,69 @@ featured: false
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/CpkOjOcXdUY)'
+  caption: 'Image credit: [**Git**](https://analyse-innovation-solution.fr/applications/my_app/files/images/git-versionning-git-checkout-git-merge.jpg)'
   focal_point: ''
   placement: 2
   preview_only: false
 
 authors:
   - admin
-  - 吳恩達
 
-tags:
-  - Academic
-  - 开源
-
-categories:
-  - Demo
-  - 教程
 ---
 
-## Overview
+## Version control.Git.
 
-1. The Wowchemy website builder for Hugo, along with its starter templates, is designed for professional creators, educators, and teams/organizations - although it can be used to create any kind of site
-2. The template can be modified and customised to suit your needs. It's a good platform for anyone looking to take control of their data and online identity whilst having the convenience to start off with a **no-code solution (write in Markdown and customize with YAML parameters)** and having **flexibility to later add even deeper personalization with HTML and CSS**
-3. You can work with all your favourite tools and apps with hundreds of plugins and integrations to speed up your workflows, interact with your readers, and much more
+**Introduction**
 
-{{< figure src="https://raw.githubusercontent.com/wowchemy/wowchemy-hugo-modules/master/academic.png" title="The template is mobile first with a responsive design to ensure that your site looks stunning on every device." >}}
+In recent years, the popularity of git has shown explosive growth. This version control system is used by various open source projects. You can start by learning the most commonly used commands, and then gradually expand your knowledge. This is exactly what we will do in this article.
 
-## Get Started
+**What is Git?**
 
-- 👉 [**Create a new site**](https://wowchemy.com/templates/)
-- 📚 [**Personalize your site**](https://wowchemy.com/docs/)
-- 💬 [Chat with the **Wowchemy community**](https://discord.gg/z8wNYzb) or [**Hugo community**](https://discourse.gohugo.io)
-- 🐦 Twitter: [@wowchemy](https://twitter.com/wowchemy) [@GeorgeCushen](https://twitter.com/GeorgeCushen) [#MadeWithWowchemy](https://twitter.com/search?q=%23MadeWithWowchemy&src=typed_query)
-- 💡 [Request a **feature** or report a **bug** for _Wowchemy_](https://github.com/wowchemy/wowchemy-hugo-modules/issues)
-- ⬆️ **Updating Wowchemy?** View the [Update Tutorial](https://wowchemy.com/docs/hugo-tutorials/update/) and [Release Notes](https://wowchemy.com/updates/)
+GIT is a distributed version control system created by Linus Torvalds to manage the development of the Linux kernel and is currently very widespread among software developers. Git has two main tasks: the first is to store information about all changes in your code, starting from the very first line, and the second is to ensure the convenience of teamwork on the code.
 
-## Crowd-funded open-source software
+**What is a Version Control System?**
 
-To help us develop this template and software sustainably under the MIT license, we ask all individuals and businesses that use it to help support its ongoing maintenance and development via sponsorship.
+***The Version Control System (VCS)*** is a software to facilitate working with changing information. The version control system allows you to store multiple versions of the same document, go back to earlier versions if necessary, determine who made a change and when, and much more. Such systems are most widely used in software development for storing the source codes of the program being developed.
 
-### [❤️ Click here to become a sponsor and help support Wowchemy's future ❤️](https://wowchemy.com/plans/)
+Version control software keeps track of all changes made to the code in a special database. If an error is detected, developers can go back and perform a comparison with earlier versions of the code to fix errors, minimizing problems for all team members.
 
-As a token of appreciation for sponsoring, you can **unlock [these](https://wowchemy.com/plans/) awesome rewards and extra features 🦄✨**
+**Centralized version control systems**
 
-## Ecosystem
+***Centralized version control systems*** are client-server applications, when the project repository exists in a single instance and is stored on the server. Access to it was carried out through a special client application.
 
-- **[Hugo Academic CLI](https://github.com/wowchemy/hugo-academic-cli):** Automatically import publications from BibTeX
+***CVS (Concurrent Versions System, Simultaneous Versions System)*** is one of the first systems that became widespread among developers, it originated in the late 80s of the last century. Currently, this product is not being developed, this is primarily due to a number of key drawbacks, such as the inability to rename files, inefficient storage, and almost complete lack of integrity control.
 
-## Inspiration
+***Subversion*** (SVN) is a version control system created to replace CVS. SVN was developed in 2004 and is still in use. Despite many advantages over CVS, SVN still has disadvantages, such as problems with renaming, inability to delete data from storage, problems in the branch merge operation, etc. In general, SVN was (and remains) a significant step forward compared to CVS.
 
-[Check out the latest **demo**](https://academic-demo.netlify.com/) of what you'll get in less than 10 minutes, or [view the **showcase**](https://wowchemy.com/user-stories/) of personal, project, and business sites.
+**Distributed version control systems**
 
-## Features
+***Distributed Version Control Systems*** (DVCS) allow you to store a repository (a copy of it) for each developer working with this system. At the same time, it is possible to allocate a central repository (conditionally) to which changes from local ones will be sent and, with it, these local repositories will be synchronized. When working with such a system, users periodically synchronize their local repositories with the central one and work directly with their local copy. After making a sufficient number of changes to the local copy, they (changes) are sent to the server. At the same time, the server is most often chosen conditionally, since in most DVCS there is no such thing as a “dedicated server with a central repository".
 
-- **Page builder** - Create _anything_ with [**widgets**](https://wowchemy.com/docs/page-builder/) and [**elements**](https://wowchemy.com/docs/content/writing-markdown-latex/)
-- **Edit any type of content** - Blog posts, publications, talks, slides, projects, and more!
-- **Create content** in [**Markdown**](https://wowchemy.com/docs/content/writing-markdown-latex/), [**Jupyter**](https://wowchemy.com/docs/import/jupyter/), or [**RStudio**](https://wowchemy.com/docs/install-locally/)
-- **Plugin System** - Fully customizable [**color** and **font themes**](https://wowchemy.com/docs/customization/)
-- **Display Code and Math** - Code highlighting and [LaTeX math](https://en.wikibooks.org/wiki/LaTeX/Mathematics) supported
-- **Integrations** - [Google Analytics](https://analytics.google.com), [Disqus commenting](https://disqus.com), Maps, Contact Forms, and more!
-- **Beautiful Site** - Simple and refreshing one page design
-- **Industry-Leading SEO** - Help get your website found on search engines and social media
-- **Media Galleries** - Display your images and videos with captions in a customizable gallery
-- **Mobile Friendly** - Look amazing on every screen with a mobile friendly version of your site
-- **Multi-language** - 34+ language packs including English, 中文, and Português
-- **Multi-user** - Each author gets their own profile page
-- **Privacy Pack** - Assists with GDPR
-- **Stand Out** - Bring your site to life with animation, parallax backgrounds, and scroll effects
-- **One-Click Deployment** - No servers. No databases. Only files.
+**Git hosting**
 
-## Themes
+A number of services provide hosting for git repositories, among the most famous are GitHub, Codebase, SourceForge, SourceHut, Gitea, Bitbucket, GitLab.
 
-Wowchemy and its templates come with **automatic day (light) and night (dark) mode** built-in. Alternatively, visitors can choose their preferred mode - click the moon icon in the top right of the [Demo](https://academic-demo.netlify.com/) to see it in action! Day/night mode can also be disabled by the site admin in `params.toml`.
+**What is an SSH key and why is it needed?**
 
-[Choose a stunning **theme** and **font**](https://wowchemy.com/docs/customization) for your site. Themes are fully customizable.
+To work from your computer with GitHub, to have access to projects stored on the service, to execute commands in the console without constantly confirming the password, you need to log in with the server. SSH keys help with this.
+Each SSH key contains a pair: a public (public) and a private (private) key. The public key is sent to the server, you don't have to hide it from everyone and not worry that someone will see it and steal it. It is useless without its private key pair. But the private key is the secret part. Only you should have access to it.
 
-## License
+**Basic git commands**
 
-Copyright 2016-present [George Cushen](https://georgecushen.com).
+The **git add** command adds the contents of the working directory to the index (staging area) for a subsequent commit.
 
-Released under the [MIT](https://github.com/wowchemy/wowchemy-hugo-modules/blob/master/LICENSE.md) license.
+The **git status** command shows the status of files in the working directory and index: which files have been modified but not added to the index; which are waiting for a commit in the index.
+
+The **git diff** command is used to calculate the difference between any two Git trees.
+
+The **git commit** command takes all the data added to the index using git add and stores their cast in the internal database, and then shifts the pointer of the current branch to this cast.
+
+The **git rm** command is used in Git to delete files from the index and working copy.
+
+The **git mv** command is just a convenient way to move a file and then execute git add for the new file and git rm for the old one.
+
+The **git clean** command is used to remove garbage from the working directory.
+
+**Conclusion**
+
+We have analyzed the basic knowledge of what a Version Control System and Git are. I tried to collect all the most important information and present it as succinctly and concisely as possible. Git is quite complex, and there are many more functions in it...
