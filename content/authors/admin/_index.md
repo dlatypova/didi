@@ -37,7 +37,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: '/#contact'
+    link: "mailto:1032215005@rudn.ru"
   - icon: github
     icon_pack: fab
     link: https://github.com/dlatypova
@@ -56,6 +56,6 @@ email: '1032215005@pfur.ru'
 highlight_name: true
 ---
 
-Hi! My name is Diana. I'm student of Peoples' Friendship University of Russia. I study on Fundamental computer science and information technology. Practicing C++ and Arduino programming.
+Student of Peoples' Friendship University of Russia. Study on Fundamental computer science and information technology. Practicing C++ and Arduino programming.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.

@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "My_last_week"
+title: "My last week"
 subtitle: ""
 summary: ""
 authors: [Latypova Diana]
@@ -16,9 +16,13 @@ draft: false
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
-  caption: ""
-  focal_point: ""
+  caption: 'Image credit: [**The last week**](/work/didi/content/post/My_last_week/last.png)'
+  focal_point: ''
+  placement: 2
   preview_only: false
+
+authors:
+  - admin
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.

@@ -16,9 +16,14 @@ draft: false
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
-  caption: ""
-  focal_point: ""
+  caption: 'Image credit: [**Git**](/work/didi/content/post/git/Git.jpg)'
+  focal_point: ''
+  placement: 2
   preview_only: false
+
+authors:
+  - admin
+
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.
