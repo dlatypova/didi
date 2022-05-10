@@ -17,11 +17,11 @@ subtitle:
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
   - description: 50%
-    icon: display-code
+    icon: laptop-code
     icon_pack: fas
     name: Programming
   - description: 90%
-    icon: head-side-heart
+    icon: hand-holding-heart
     icon_pack: fas
     name: Art
   - description: 70%
