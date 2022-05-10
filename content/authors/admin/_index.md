@@ -14,13 +14,13 @@ organizations:
     url: https://eng.rudn.ru/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include programming, IT, Data Science and dancing.
+bio: My research interests include programming, IT, Data Science. 
 
 # Interests to show in About widget
 interests:
   - Programming, IT
   - Data Science
-  - Dancing
+  - Dancing, acting
   
 
 # Education to show in About widget
@@ -56,6 +56,6 @@ email: '1032215005@pfur.ru'
 highlight_name: true
 ---
 
-Student of Peoples' Friendship University of Russia. Study on Fundamental computer science and information technology. Practicing C++ and Arduino programming.
+Student of Peoples' Friendship University of Russia. Study on Fundamental computer science and information technology. Practicing C++ and Arduino programming. The future Systems Data analyst.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
