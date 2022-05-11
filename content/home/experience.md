@@ -21,8 +21,19 @@ date_format: Jan 2006
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
-
+experience:
+  - title: Kwork
+    company: Freelance
+    company_url: 'https://kwork.ru/'
+    company_logo: org-gc
+    date_start: '2021-01-01'
+    date_end: ''
+    description: |2-
+        Responsibilities include:
+        
+        * Copywriting
+        * Translating
 
 design:
-  columns: '2'
+  columns: '1'
 ---
