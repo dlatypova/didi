@@ -24,7 +24,7 @@ date_format: Jan 2006
 experience:
   - title: Kwork
     company: Freelance
-    company_url: https://kwork.ru/
+    company_url: 'https://kwork.ru/'
     date_start: '2020-01-01'
     date_end: ''
     description: |2-
