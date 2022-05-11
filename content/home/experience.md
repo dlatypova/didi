@@ -25,7 +25,6 @@ experience:
   - title: Kwork
     company: Freelance
     company_url: 'https://kwork.ru/'
-    company_logo: org-gc
     date_start: '2020-03-01'
     date_end: ''
     description: |2-
