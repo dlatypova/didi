@@ -23,12 +23,12 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-  - certificate_url: 
+  - certificate_url: 'https://www.sololearn.com/learning/1051'
     date_end: ''
     date_start: '2021-12-19'
     description: ''
     organization: Sololearn
-    organization_url: https://www.sololearn.com/home
+    organization_url: 'https://www.sololearn.com/home'
     title: 'Course Certificate c++'
     url: ''
   - certificate_url: 
@@ -39,6 +39,7 @@ item:
     organization_url:
     title: Certificate Intermediate level English Course
     url: 
+
 
 design:
   columns: '2'
