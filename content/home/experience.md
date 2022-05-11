@@ -25,8 +25,8 @@ experience:
   - title: Kwork
     company: Freelance
     company_url: https://kwork.ru/
-    date_start: '2019-01-01'
-    date_end: '2020-01-01'
+    date_start: '2020-01-01'
+    date_end: ''
     description: |2-
         Responsibilities include:
         
