@@ -41,6 +41,28 @@ social:
   - icon: github
     icon_pack: fab
     link: https://github.com/dlatypova
+  - icon: erlang
+    icon_pack: fab
+    link: https://www.elibrary.ru
+  - icon: google-scholar
+    icon_pack: ai
+    link: https://scholar.google.com/citations?user=iVbkYMkAAAAJ&hl
+  - icon: orcid
+    icon_pack: ai
+    link:  https://orcid.org/0000-0002-3284-545X
+  - icon: mendeley
+    icon_pack: ai
+    link: https://www.mendeley.com
+  - icon: researchgate
+    icon_pack: ai
+    link: https://www.researchgate.net/profile/Diana-Latypova
+  - icon: academia
+    icon_pack: ai
+    link: https://independent.academia.edu/LatypovaDiana
+  - icon: arxiv
+    icon_pack: ai
+    link: https://arxiv.org/user/
+
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
