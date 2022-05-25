@@ -23,7 +23,7 @@ featured: false
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
 image:
-  caption: 'Image credit: [**Scientific Programming**](https://content.techgig.com/thumb/msid-76280060,width-460,resizemode-4/Top-10-most-dreaded-programming-language-of-all-time.jpg?269059)'
+  caption: 'Image: [**Scientific Programming**](https://content.techgig.com/thumb/msid-76280060,width-460,resizemode-4/Top-10-most-dreaded-programming-language-of-all-time.jpg?269059)'
   focal_point: ''
   placement: 2
   preview_only: false

@@ -9,10 +9,10 @@ summary: When making a report, you need to follow certain rules of registration.
 projects: []
 
 # Date published
-date: '2020-05-19T00:00:00Z'
+date: '2022-05-19T00:00:00Z'
 
 # Date updated
-lastmod: '2020-05-19T00:00:00Z'
+lastmod: '2022-05-19T00:00:00Z'
 
 # Is this an unpublished draft?
 draft: false
@@ -23,7 +23,7 @@ featured: false
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
 image:
-  caption: 'Image credit: [**About reports**](https://my-sbis.ru/wp-content/uploads/2021/06/prinyat-priglashenie-edo-700x397.jpg)'
+  caption: 'Image: [**About reports**](https://my-sbis.ru/wp-content/uploads/2021/06/prinyat-priglashenie-edo-700x397.jpg)'
   focal_point: ''
   placement: 2
   preview_only: false

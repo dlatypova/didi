@@ -1,18 +1,18 @@
 ---
 title: My 3 last week
-subtitle: Third week...
+subtitle: The third week...
 
 # Summary for listings and search engines
-summary: Third week...
+summary: The third week...
 
 # Link this post with a project
 projects: []
 
 # Date published
-date: '2020-05-19T00:00:00Z'
+date: '2022-05-19T00:00:00Z'
 
 # Date updated
-lastmod: '2020-05-19T00:00:00Z'
+lastmod: '2022-05-19T00:00:00Z'
 
 # Is this an unpublished draft?
 draft: false
@@ -23,7 +23,7 @@ featured: false
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
 image:
-  caption: 'Image credit: [**The 3 last week**](https://nanosemantics.ai/wp-content/uploads/2019/12/%D0%9F%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5-%D0%B4%D0%BB%D1%8F-%D0%B4%D0%B5%D1%82%D0%B5%D0%B9-768x512.jpg)'
+  caption: 'Image: [**The 3 last week**](https://nanosemantics.ai/wp-content/uploads/2019/12/%D0%9F%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5-%D0%B4%D0%BB%D1%8F-%D0%B4%D0%B5%D1%82%D0%B5%D0%B9-768x512.jpg)'
   focal_point: ''
   placement: 2
   preview_only: false

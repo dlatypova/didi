@@ -23,7 +23,7 @@ featured: false
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
 image:
-  caption: 'Image credit: [**The 4 last week**](https://mediasat.info/wp-content/uploads/2021/05/programming-languages.jpg)'
+  caption: 'Image: [**The 4 last week**](https://mediasat.info/wp-content/uploads/2021/05/programming-languages.jpg)'
   focal_point: ''
   placement: 2
   preview_only: false

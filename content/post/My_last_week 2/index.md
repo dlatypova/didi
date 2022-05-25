@@ -9,10 +9,10 @@ summary: Let's see what happened to me second last week.
 projects: []
 
 # Date published
-date: '2020-05-11T00:00:00Z'
+date: '2022-05-11T00:00:00Z'
 
 # Date updated
-lastmod: '2020-05-11T00:00:00Z'
+lastmod: '2022-05-11T00:00:00Z'
 
 # Is this an unpublished draft?
 draft: false
@@ -23,7 +23,7 @@ featured: false
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
 image:
-  caption: 'Image credit: [**The 2 last week**](https://images.techopedia.com/images/uploads/human-people-person-electronics-lcd-screen-monitor-screen-text-label-c.jpg?w=800&h=0&mode=max&quality=70&scale=both)'
+  caption: 'Image: [**The 2 last week**](https://images.techopedia.com/images/uploads/human-people-person-electronics-lcd-screen-monitor-screen-text-label-c.jpg?w=800&h=0&mode=max&quality=70&scale=both)'
   focal_point: ''
   placement: 2
   preview_only: false

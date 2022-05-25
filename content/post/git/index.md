@@ -9,10 +9,10 @@ summary: Getting to know information about Version Control and Git
 projects: []
 
 # Date published
-date: '2020-05-07T00:00:00Z'
+date: '2022-05-07T00:00:00Z'
 
 # Date updated
-lastmod: '2020-05-07T00:00:00Z'
+lastmod: '2022-05-07T00:00:00Z'
 
 # Is this an unpublished draft?
 draft: false
@@ -23,7 +23,7 @@ featured: false
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
 image:
-  caption: 'Image credit: [**Version control. Git**](https://analyse-innovation-solution.fr/applications/my_app/files/images/git-versionning-git-checkout-git-merge.jpg)'
+  caption: 'Image: [**Version control. Git**](https://analyse-innovation-solution.fr/applications/my_app/files/images/git-versionning-git-checkout-git-merge.jpg)'
   focal_point: ''
   placement: 2
   preview_only: false

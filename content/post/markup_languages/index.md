@@ -9,10 +9,10 @@ summary: Interested in learning about lightweight markup languages? Then here yo
 projects: []
 
 # Date published
-date: '2020-05-11T00:00:00Z'
+date: '2022-05-11T00:00:00Z'
 
 # Date updated
-lastmod: '2020-05-11T00:00:00Z'
+lastmod: '2022-05-11T00:00:00Z'
 
 # Is this an unpublished draft?
 draft: false
@@ -23,7 +23,7 @@ featured: false
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
 image:
-  caption: 'Image credit: [**Lightweight markup languages**](https://themetechmount.com/wp-content/uploads/2019/07/post-img-two.jpg)'
+  caption: 'Image: [**Lightweight markup languages**](https://themetechmount.com/wp-content/uploads/2019/07/post-img-two.jpg)'
   focal_point: ''
   placement: 2
   preview_only: false
