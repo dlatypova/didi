@@ -1,15 +1,15 @@
 ---
-title: C++ Projects
-summary: C++ Programming Projects.
+title: Arduino Projects
+summary: Arduino Programming Projects.
 tags:
-  - C++
+  - Arduino
 date: '2022-05-25T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''
 
 image:
-  caption: С++
+  caption: Arduino
   focal_point: Smart
 
 links:
@@ -30,4 +30,4 @@ url_video: ''
 
 ---
 
-Doing various projects of programs in C++.
+Doing various projects of programs in Arduino.

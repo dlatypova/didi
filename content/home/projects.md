@@ -27,8 +27,10 @@ content:
   filter_button:
     - name: All
       tag: '*'
-    - name: Deep Learning
-      tag: Deep Learning
+    - name: C++
+      tag: C++
+    - name: Arduino
+      tag: Arduino
     - name: Other
       tag: Demo
 
