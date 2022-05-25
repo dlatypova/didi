@@ -2,7 +2,7 @@
 title: C++ Projects
 summary: C++ Programming Projects.
 tags:
-  - C++
+  - Cpp
 date: '2022-05-25T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).

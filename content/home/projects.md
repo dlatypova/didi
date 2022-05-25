@@ -27,8 +27,8 @@ content:
   filter_button:
     - name: All
       tag: '*'
-    - name: C++
-      tag: C++
+    - name: Cpp
+      tag: Cpp
     - name: Arduino
       tag: Arduino
     - name: Other
