@@ -30,7 +30,8 @@ image:
 
 authors:
   - admin
-  
+categories:
+  - post 1
 ---
 
 ## Get Started

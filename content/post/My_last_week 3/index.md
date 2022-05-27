@@ -30,7 +30,8 @@ image:
 
 authors:
   - admin
-  
+categories:
+  - post 3 
 ---
 
 ## How was my third week?

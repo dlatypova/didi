@@ -30,7 +30,8 @@ image:
 
 authors:
   - admin
-  
+categories:
+  - post 2
 ---
 
 ## How was my second week?

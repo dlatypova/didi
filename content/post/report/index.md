@@ -30,7 +30,8 @@ image:
 
 authors:
   - admin
-
+categories:
+  - post 3
 ---
 
 ## Introduction

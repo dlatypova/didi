@@ -10,7 +10,7 @@ role: Student
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Peoples' Friendship University of Russia (RUDN University)
+  - name: Peoples' Friendship University of Russia (PFUR)
     url: https://eng.rudn.ru/
 
 # Short bio (displayed in user profile at end of posts)
