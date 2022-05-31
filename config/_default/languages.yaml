@@ -7,11 +7,32 @@ en:
   languageCode: en-us
   # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
   contentDir: content/en
+  title: 'D/. Latypova'
   
 ru:
-  languageCode: ru-ru
-  # Uncomment for multi-lingual sites, and move Russian content into `ru` sub-folder.
-  contentDir: content/ru
+  languageCode: "ru-ru"
+  contentDir: "content/ru" 
+  title: 'Д.Латыпова'
+  menu: 
+    main:
+      - name: Обо Мне
+        url: '#about'
+        weight: 10
+      - name: Посты
+        url: '#posts'
+        weight: 20
+      - name: Проекты
+        url: '#projects'
+        weight: 30
+      - name: Выступления
+        url: '#talks'
+        weight: 40
+      - name: Публикации
+        url: '#featured'
+        weight: 50
+      - name: Контакты
+        url: '#contact'
+        weight: 60
   
 # Uncomment the lines below to configure your website in a second language.
 #zh:
